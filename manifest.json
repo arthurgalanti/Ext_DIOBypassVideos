@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "DIO Bypass",
-    "description": "Use this to bypass video blocker in digital innovation one.",
+    "description": "Usar essas extensão para burlar o bloqueador da plataforma DIO.",
     "version": "1.0",
     "action": {
       "default_icon": {
